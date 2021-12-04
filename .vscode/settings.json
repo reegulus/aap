@@ -1,0 +1,13 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": true,
+  "workbench.editor.tabSizing": "shrink",
+  "editor.hover.enabled": false,
+  "editor.tabSize": 2,
+  
+  "ecsstractor_port.bem_nesting": true,
+  "ecsstractor_port.add_comment": false,
+  "ecsstractor_port.empty_line_before_nested_selector": false,
+  "ecsstractor_port.brackets_newline_after": false,
+  "ecsstractor_port.indentation": " "
+}
